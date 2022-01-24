@@ -9,3 +9,4 @@ dependencyResolutionManagement {
 rootProject.name = "Starter"
 include ':app'
 include ':launch'
+include ':topcode'
